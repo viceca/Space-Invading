@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\ApplicationModel.cs">
+    <Files>
+      <File FileName="Assets\Code\ApplicationModel.cs" Line="3" Column="35" />
+      <File FileName="Assets\Code\ButtonInt.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\Manager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\Game.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\SaveLoad.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\Repo.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

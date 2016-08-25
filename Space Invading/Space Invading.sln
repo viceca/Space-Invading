@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{BCFC8B0A-AA93-556F-BA25-7F9244375F02}") = "Space Invading", "Assembly-CSharp.csproj", "{6F45816D-7B26-B36D-0DCF-BE2DC4B955D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F45816D-7B26-B36D-0DCF-BE2DC4B955D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F45816D-7B26-B36D-0DCF-BE2DC4B955D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F45816D-7B26-B36D-0DCF-BE2DC4B955D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F45816D-7B26-B36D-0DCF-BE2DC4B955D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+				GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
